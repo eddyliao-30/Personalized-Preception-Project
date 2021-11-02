@@ -34,3 +34,5 @@ Selfsupervised contrastivev learning.ipynb for training contrastivev learning wi
 VGG-19 pytorch.ipynb for fine tuning VGG-19 with sample images with observer behavior data.
 
 ----
+[Summary of personalized perception project - summer in 2021.pdf](https://github.com/eddyliao-30/Personalized-Preception-Project/files/7463304/Summary.of.personalized.perception.project.-.summer.in.2021.pdf)
+
