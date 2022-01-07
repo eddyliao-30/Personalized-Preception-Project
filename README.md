@@ -36,6 +36,6 @@ VGG-19 pytorch.ipynb for fine tuning VGG-19 with sample images with observer beh
 ----
 
 # Project report:
-[Summary of personalized perception project - summer in 2021.pdf](https://github.com/eddyliao-30/Personalized-Preception-Project/files/7463304/Summary.of.personalized.perception.project.-.summer.in.2021.pdf)
+[Summary of personalized perception project - summer in 2021.pdf](https://github.com/eddyliao-30/Personalized-Preception-Project/blob/main/Summary%20of%20personalized%20perception%20project%20-%20summer%20in%202021.pdf)
 
 [Personalized Perception_ Cat Cuteness Preference Prediction with LPIPS  - CSC-680 Final Project.pdf](https://github.com/eddyliao-30/Personalized-Preception-Project/blob/main/Personalized%20Perception_%20Cat%20Cuteness%20Preference%20Prediction%20with%20LPIPS%20%20-%20CSC-680%20Final%20Project.pdf)
